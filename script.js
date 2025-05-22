@@ -1,1 +1,1 @@
-alert("Jogo do Quiz")
+
